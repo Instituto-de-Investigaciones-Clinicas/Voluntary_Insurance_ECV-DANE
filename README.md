@@ -10,3 +10,5 @@ Proyect
 data: Contains .csv files downloaded from the DANE website, which are publicly available.
 results: Contains regression results and RD plots.
 scripts: Contains scripts used for the analysis.
+
+To reproduce the analysis, download or clone the repository and then run the R script located in "scripts" using ctrl+alt+R or the buttons in the RStudio interface. Datasets and results must reproduce smotthly. 
