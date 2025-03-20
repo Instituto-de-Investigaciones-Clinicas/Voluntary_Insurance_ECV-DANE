@@ -1,0 +1,21 @@
+Sharp RD estimates using local polynomial regression.
+
+Number of Obs.                 3911
+BW type                      msetwo
+Kernel                   Triangular
+VCE method                       NN
+
+Number of Obs.                 2930          981
+Eff. Number of Obs.             377          565
+Order est. (p)                    1            1
+Order bias  (q)                   2            2
+BW est. (h)                   0.478        0.906
+BW bias (b)                   0.898        2.015
+rho (h/b)                     0.532        0.450
+
+=============================================================================
+        Method     Coef. Std. Err.         z     P>|z|      [ 95% C.I. ]       
+=============================================================================
+  Conventional     2.496     6.218     0.401     0.688    [-9.691 , 14.682]    
+        Robust         -         -     0.248     0.804   [-12.243 , 15.792]    
+=============================================================================
