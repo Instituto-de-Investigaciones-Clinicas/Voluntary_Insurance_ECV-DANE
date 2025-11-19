@@ -1,0 +1,59 @@
+StataFileTM:00001:01100:GREC:                          :
+00007:00007:00001:
+*! classname: twowaygraph_g
+*! family: twoway
+*! date: 14 Nov 2025
+*! time: 14:07:20
+*! graph_scheme: s2color
+*! naturallywhite: 1
+*! end
+
+// File created by Graph Editor Recorder.
+// Edit only if you know what you are doing.
+
+.style.editstyle boxstyle(shadestyle(color(white))) editcopy
+// Graph color
+
+.note.DragBy 72.84710405820871 3.663907600560803
+// note reposition
+
+.title.text = {}
+// title edits
+
+// title edits
+
+.xaxis1.title.text = {}
+.xaxis1.title.text.Arrpush `"Monthly Earnings (in Monthly Minimum Wages (MMW))"'
+// title edits
+
+// title edits
+
+.xaxis1.title.DragBy -2.586287718042914 -1.939715788532184
+// title reposition
+
+.yaxis1.title.DragBy 0 -.2155239765035755
+// title reposition
+
+.yaxis1.title.DragBy 0 -.2155239765035745
+// title reposition
+
+.yaxis1.title.DragBy 0 -.4310479530071498
+// title reposition
+
+.yaxis1.title.DragBy 0 -.2155239765035755
+// title reposition
+
+.note.style.editstyle drawbox(yes) editcopy
+.note.style.editstyle fillcolor(white) editcopy
+// note edits
+
+// note edits
+
+.note.DragBy 3.583173863434052 .3359225496969756
+// note reposition
+
+.subtitle.text = {}
+// subtitle edits
+
+
+// <end>
